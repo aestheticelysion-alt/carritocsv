@@ -1,4 +1,4 @@
-product_name;product_price;product_category_1;product_brand
+﻿product_name;product_price;product_category_1;product_brand
 FX Protect Gravity Pre-Wash;11.5;Lavar > Prelimpiador;FX Protect
 Auto Finesse Citrus Power Bug & Grime Remover 1L;11.00;Lavar > Prelimpiador;Auto Finesse
 Labocosmetica Primus 2.0 1L;16.5;Lavar > Prelimpiador;Labocosmetica
@@ -14,13 +14,13 @@ Soft99 Extreme Gloss The Kiwami Dark Shampoo 750ml;16.5;Lavar > Shampoo;Soft99
 Aesthetic Unique Shampoo 500ml;16.5;Lavar > Shampoo;Aesthetic
 Stoner Invisible Glass 643ml;9.5;Lavar > Limpiacristales;Stoner
 Cleantle Glass Cleaner Greentea Scent 1L;8.00;Lavar > Limpiacristales;Cleantle
-CarPro Detailing Clay;27.00;Lavar > Descontaminación;CarPro
-Soft99 Smooth Egg Clay Bar 2uds;10.00;Lavar > Descontaminación;Soft99
+CarPro Detailing Clay;27.00;Lavar > DescontaminaciÃ³n;CarPro
+Soft99 Smooth Egg Clay Bar 2uds;10.00;Lavar > DescontaminaciÃ³n;Soft99
 Cleantle APC Lime 1L;9.00;Interior > APC;Cleantle
 Ultracoat APC+ 500ml;8.00;Interior > APC;Ultracoat
 Koch Chemie MZR 1L;13.00;Interior > APC;Koch Chemie
-ADBL Interior QD Unlimited 1L;13.00;Interior > Plásticos;ADBL
-Mother's VLR 710ml;13.00;Interior > Plásticos;Mother's
+ADBL Interior QD Unlimited 1L;13.00;Interior > PlÃ¡sticos;ADBL
+Mother's VLR 710ml;13.00;Interior > PlÃ¡sticos;Mother's
 Koch Chemie Pol Star 1L;12.00;Interior > Textil;Koch Chemie
 P&S Terminator 473ml;15.5;Interior > Textil;P&S
 GYEON Q2M LeatherCleaner Natural 500ml;15.75;Interior > Cuero;GYEON
@@ -40,12 +40,12 @@ CarPro DQuartz GO 30ml;82.50;Proteccion > Pintura;CarPro
 Collinite No. 915 Marque d'Elegance 355ml;38.00;Proteccion > Pintura;Collinite
 GYEON Q2 RIM EVO 30ML;54.60;Proteccion > Llantas;GYEON 
 CarPro DLUX 30ml;38.00;Proteccion > Llantas;CarPro
-Luminus Ls Trim 30ml;64.00;Proteccion > Plásticos;Luminus
-GYEON Q2 TRIM EVO 30ML;54.60;Proteccion > Plásticos;GYEON
+Luminus Ls Trim 30ml;64.00;Proteccion > PlÃ¡sticos;Luminus
+GYEON Q2 TRIM EVO 30ML;54.60;Proteccion > PlÃ¡sticos;GYEON
 GYEON Q2 VIEW EVO 20ML;43.00;Proteccion > Cristales;GYEON
 Labocosmetica Aquavelox 100ml;16.00;Proteccion > Cristales;Labocosmetica
 303 High Tech Fabric Guard;19.00;Proteccion > Textil;303 High Tech Fabric Guard
-GYEON Q� Fabric Coat 100ml;21.50;Proteccion > Textil;GYEON 
+GYEON Q² Fabric Coat 100ml;21.50;Proteccion > Textil;GYEON 
 Stark Edgeless Towel 400GSM;3.50;Accesorios > Microfibras;Stark 
 Stark Perfect Glass;3.00;Accesorios > Microfibras;Stark 
 Toalla de secado Stark Double Twisted 2000GSM;19.50;Accesorios > Microfibras;Stark 
